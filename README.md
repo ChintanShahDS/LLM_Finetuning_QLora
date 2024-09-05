@@ -10,3 +10,6 @@
 - BitandBytes does not work on CPU though there are other quantization libraries that work with CPU
 - Time is significantly reduced in both training and inference of model using quantization
 - 
+
+## Deployed as a Huggingface app
+https://huggingface.co/spaces/Chintan-Shah/FineTuned_Phi3.5_QLora
